@@ -1,0 +1,1 @@
+This repository contains the front end interface of the Hospital data base management system.It's built by using HTML ,CSS and JavaScript to provide a clean and user friendly interface for managig hospital record.
